@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SMILEY",
+  "base_artist": "YENA",
+  "createdAt": "2026-02-11T08:05:12.744442Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smiley",
+      "artist": "Orbital",
+      "has_synced": true,
+      "path": "select/01_Smiley_Orbital.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "smiley face",
+      "artist": "Maple feat. p4rkr",
+      "has_synced": false,
+      "path": "select/02_smiley_face_Maple_feat._p4rkr.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "smiley face (feat. p4rkr)",
+      "artist": "Maple",
+      "has_synced": false,
+      "path": "select/03_smiley_face_(feat._p4rkr)_Maple.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Smiley - Gish Sessions Demo",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/04_Smiley_-_Gish_Sessions_Demo_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Smiley Faces",
+      "artist": "Gnarls Barkley",
+      "has_synced": true,
+      "path": "select/05_Smiley_Faces_Gnarls_Barkley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr. Smiley",
+      "artist": "Poison",
+      "has_synced": false,
+      "path": "select/06_Mr._Smiley_Poison.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Smiley Face (It's All Good)",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/07_Smiley_Face_(It's_All_Good)_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kylie's Smiley Mix",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/08_Kylie's_Smiley_Mix_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kylie's Smiley Mix (Extended)",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/09_Kylie's_Smiley_Mix_(Extended)_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hwa El Smiley Face Bta3o Shaklo Kda",
+      "artist": "Abyusif",
+      "has_synced": true,
+      "path": "select/10_Hwa_El_Smiley_Face_Bta3o_Shaklo_Kda_Abyusif.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SMILEY",
+      "artist": "Tech N9ne feat. HU$H",
+      "has_synced": true,
+      "path": "select/11_SMILEY_Tech_N9ne_feat._HU$H.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SMILEY",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/12_SMILEY_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mr. Smiley",
+      "artist": "Mustard Plug",
+      "has_synced": false,
+      "path": "select/13_Mr._Smiley_Mustard_Plug.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Smiley",
+      "artist": "Vald",
+      "has_synced": true,
+      "path": "select/14_Smiley_Vald.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Smiley (Bonus Carotte)",
+      "artist": "Vald",
+      "has_synced": true,
+      "path": "select/15_Smiley_(Bonus_Carotte)_Vald.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "SMILEY(Feat. BIBI)",
+      "artist": "YENA feat. BIBI",
+      "has_synced": true,
+      "path": "select/16_SMILEY(Feat._BIBI)_YENA_feat._BIBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SMILEY(Feat. BIBI)",
+      "artist": "YENA, BIBI",
+      "has_synced": false,
+      "path": "select/pl_01_SMILEY(Feat._BIBI)_YENA,_BIBI.txt"
+    }
+  ]
+}
